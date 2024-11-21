@@ -24,7 +24,7 @@
   "editor.suggestSelection": "first",
   "editor.renderWhitespace": "trailing",
   "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": "explicit"
+    "source.fixAll.eslint": "explicit"
   },
   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
   "explorer.confirmPasteNative": false,
@@ -43,9 +43,9 @@
   "git.confirmSync": false,
   "git.ignoreRebaseWarning": true,
   "gitlens.gitCommands.skipConfirmations": [
-      "fetch:command",
-      "switch:command",
-      "stash-push:command"
+    "fetch:command",
+    "switch:command",
+    "stash-push:command"
   ],
   "editor.insertSpaces": true,
   "editor.formatOnSave": false,
@@ -73,8 +73,8 @@
     "**/.settings": true
   },
   "launch": {
-      "configurations": [],
-      "compounds": []
+    "configurations": [],
+    "compounds": []
   },
   "workbench.tree.enableStickyScroll": true,
   "typescript.inlayHints.parameterTypes.enabled": true,
@@ -86,10 +86,10 @@
   "json.schemas": [],
   "extensions.ignoreRecommendations": true,
   "[json]": {
-      "editor.defaultFormatter": "vscode.json-language-features"
+    "editor.defaultFormatter": "vscode.json-language-features"
   },
   "[html]": {
-      "editor.defaultFormatter": "vscode.html-language-features"
+    "editor.defaultFormatter": "vscode.html-language-features"
   },
   "[python]": {
     "editor.formatOnSave": true,
